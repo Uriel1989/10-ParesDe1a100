@@ -1,0 +1,6 @@
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\10-ParesDe1a100\10-ParesDe1a100\bin\Debug\10-ParesDe1a100.exe
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\10-ParesDe1a100\10-ParesDe1a100\bin\Debug\10-ParesDe1a100.pdb
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\10-ParesDe1a100\10-ParesDe1a100\obj\Debug\10-ParesDe1a100.csprojAssemblyReference.cache
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\10-ParesDe1a100\10-ParesDe1a100\obj\Debug\10-ParesDe1a100.csproj.CoreCompileInputs.cache
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\10-ParesDe1a100\10-ParesDe1a100\obj\Debug\10-ParesDe1a100.exe
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\10-ParesDe1a100\10-ParesDe1a100\obj\Debug\10-ParesDe1a100.pdb
